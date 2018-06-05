@@ -1,0 +1,18 @@
+[
+	{
+		"designation": "president",
+		"limit": "The President can approve capital transactions upto USD 50.0 million."
+	},
+	{
+		"designation": "group president",
+		"limit": "The Group President can approve capital transactions upto USD 50.0 million."
+	},
+	{
+		"designation": "cto",
+		"limit": "The CTO can approve capital transactions upto USD 150.0 million and non capital transactions in excess of USD 50.0 million."
+	},
+	{
+		"designation": "cfo",
+		"limit": "The CFO can approve capital transactions upto USD 50.0 million."
+	}
+]
